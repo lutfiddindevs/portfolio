@@ -54,9 +54,7 @@ const Blogs = ()=>{
                   <a href="blog-post-new.html" className="name">By spite about do of allow</a>
                   <div className="text">
                     <p>
-                      Ex audire suavitate has, ei quodsi tacimates sapientem
-                      sed, pri zril ubique ut. Te cule tation munere
-                      noluisse. Enim torquatos…
+                     Added new text 
                     </p>
                   </div>
                 </div>
@@ -65,14 +63,7 @@ const Blogs = ()=>{
             {/* blog item */}
             <div className="col col-d-6 col-t-6 col-m-12">
               <div className="box-item">
-                <div className="image">
-                  <a href="blog-post-new.html">
-                    <img src="images/blog/blog3.jpg" alt="By spite about do of allow" />
-                    <span className="info">
-                      <span className="ion ion-document-text" />
-                    </span>
-                  </a>
-                </div>
+              
                 <div className="desc">
                   <a href="blog-post-new.html">
                     <span className="date">April 28, 2020</span>
